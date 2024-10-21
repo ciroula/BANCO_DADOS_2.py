@@ -8,7 +8,7 @@ def main():
     service = UsuarioService(repository)
 
     #criando um usuario.
-    service.criar_usuario("Michel2", "mic2@", "123")
+    service.criar_usuario("Michel4", "mic4@", "123")
 
     #lista todos os usuarios.
     print("\nListando todos os usuarios. ")
